@@ -1,0 +1,78 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+}
+
+img {
+    margin: 25px 50px;
+}
+
+#nav_list {
+    position: fixed;
+    width: 200px;
+    height: 100%;
+    background-color: #00BFFF;
+}
+
+#contact {
+    margin-left: 27px;
+    margin-top: 97px;
+}
+
+#self_intro li,
+#talk {
+    color: white;
+    font-family: "微软雅黑";
+    padding-top: 5px;
+    text-align: center;
+}
+
+#self_intro li {
+    font-size: 15px;
+}
+
+#talk {
+    margin-top: 50px;
+    font-size: 17px;
+}
+
+#contact li,
+a {
+    color: white;
+    font-family: "微软雅黑";
+    padding-top: 5px;
+    font-size: 13px;
+}
+
+article {
+    margin-left: 225px;
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 40px;
+}
+
+.title {
+    font-family: "微软雅黑";
+    font-size: 23px;
+    padding: 0px 2px;
+    margin: 24px 0px;
+    color: #00BFFF;
+}
+
+.content li {
+    font-family: "微软雅黑";
+    font-size: 15px;
+    margin: 12px 0px;
+}
